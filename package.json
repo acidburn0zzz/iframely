@@ -46,7 +46,7 @@
         "memcached":    "0.2.3",
         "node-cache":   "1.0.3",
 
-        "jquery":       "1.8.3",
+        "jquery":       "3.5.0",
         "readabilitySAX":"1.6.1",
         "cheerio":      "0.16.0",
 
