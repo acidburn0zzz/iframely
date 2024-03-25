@@ -23,7 +23,7 @@
         "async":        "0.2.8",
         "underscore":   "1.4.4",
         "request":      "2.9",
-        "express":      "3.2.4",
+        "express":      "4.19.2",
         "send":         "0.1.0",
         "connect":      "2.7.9",
         "ejs":          "0.8.4",
